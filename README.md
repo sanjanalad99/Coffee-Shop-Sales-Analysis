@@ -43,4 +43,13 @@ Transforming data into a dashboard that not only talks but sings about patterns,
 ### Conclusion:
 Every Mavern Roasters location is a unique snowflake in the blizzard of New York's coffee scene. By tailoring our operations to the rhythms and preferences of each neighborhood, we're not just selling coffee - we're brewing success. 
 
+### Snippet of the dashboard and a link to access it
+Link: https://docs.google.com/spreadsheets/d/1H1xqkdhU-1ICc8FJrsGU2CdMVZNg4tCi/edit?usp=sharing&ouid=109522221802936316340&rtpof=true&sd=true
+<img width="509" alt="image" src="https://github.com/sanjanalad99/Coffee-Shop-Sales-Analysis/assets/133920285/882610b2-7757-447a-9c08-9d3ddbd3fcc2">
+
+
 Let's keep the coffee flowing and the registers ringing! ☕💼
+
+### Credits: Maven Analytics (https://www.youtube.com/watch?v=OMFlZ6PI6Sk&list=PLGAnLqlBhx1H1ttHanEdz2BA5xr5cJsmm)
+Dataset: https://mavenanalytics.io/data-playground?pageSize=10&search=coffee%20shop%20sales
+
