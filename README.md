@@ -1,45 +1,46 @@
-# Coffee-Shop-Sales-Dashboard
-#Situation:
-Assumed that I recently became a franchise owner at Mavern Roasters, a coffee shop chain with 3 locations in NY city.
+# Coffee-Shop-Sales-Dashboard Extravaganza 🎉☕
 
-#Assignment
-To better understand purchase behavior and streamline operations you have collected transactional data from Jan-Jun 2023.
+### Situation:
+Imagine this - I've just jumped into the caffeinated world of franchise ownership with Mavern Roasters, a cozy chain with 3 buzzing locations in the heart of NY city. It's like being handed the keys to a chocolate factory, but for coffee!
 
-#GOAL
-To transform the data into a dynamic dashboard that franchise owners can useto identify patterns, trends and opportunities for the business.
+### Assignment:
+My mission, should I choose to accept it (and I totally did), is to dive deep into the ocean of transactional data from Jan-Jun 2023. The goal? To whip up a dynamic dashboard that's not just a feast for the eyes but a crystal ball into the soul of purchase behavior and a magic wand for streamlining operations.
 
-#Objectives
-1. Profiled and prepared raw data for analysis
-2. Explored the data with Excel Pivot Tables
-3. Built dynamic dashboard to visualize patterns and trends
+### GOAL:
+Transforming data into a dashboard that not only talks but sings about patterns, trends, and golden opportunities for Mavern Roasters.
 
+### Objectives (The Recipe for Success):
 
-Objective 1: Prepared the data for analysis
--Took a moment to familiarize myself with the data. How many transactions were recorded,over what period of time? What products and product categories were sold?
--Added a new column to calculate revenue(Price * Quantity)
--Added new columns to calculate Month and Day of Week based on the  transaction date
--Added a new column to extract hour from the transaction time
+#### Objective 1: Prepping the Data Like a Masterchef
+- Took a whirlwind tour through the data - it's like a diary of every latte, espresso, and muffin we've ever sold.
+- Added a sprinkle of magic with a new column for revenue (Price * Quantity = 💰).
+- Crafted columns to slice time by Month and Day of the Week, because who sold what and when is the new who's who.
+- Snuck in a column to catch the hour - because in the world of coffee, timing is everything.
 
-Objective 2: Explored the data with Pivot tables(Slicing and dicing the data)
--Inserted a pivot table on a new tab to show revenue by month
--Added two or more Pivot Tables(on the same sheet) to show the number of transactions by product category, sort in descending by transactions
--Added a Pivot Table(on the same sheet) to show the no. of transactions and revenue by product type, sorted descending and filtered to the top 15(by transactions)
+#### Objective 2: The Great Data Bake-off with Pivot Tables
+- Whipped up a Pivot Table that sings a monthly revenue opera.
+- Marshalled two more Pivot Table soldiers to rank product categories by popularity - because knowing your bestseller is half the battle.
+- Summoned a Pivot Table wizard to reveal the top 15 product types by transactions - it's like America's Got Talent, but for coffee products.
 
-Objective 3: Building of the dynamic dashboard(visualization)
--Added pivot charts to show revenue by moth as a line chart, transactions by day of week and hour of day as column charts, and transactions by product category as a bar chart
-- Assembled the charts into a rough dashboard layout, and included space for the Pivot Table showing top 15 product types
-- Added a slicer for store location and connect it to all pivot tables on the sheet
-  -Adjusted formatting, alignment and polished to finalize the dashboard
-- Visualized any interesting patterns or trends
+#### Objective 3: Assembling the Avengers - The Dynamic Dashboard
+- Brought to life a line chart that tracks revenue by month - it's like watching the heartbeat of Mavern Roasters.
+- Erected column charts to display transactions by day of the week and hour of the day - it's where time meets money.
+- Crafted a bar chart that showcases transactions by product category - because everyone loves a good popularity contest.
+- Arranged all these chart superheroes into a dashboard that's more captivating than a Broadway show.
+- Added a slicer for store location - it's like having a remote control for your data, zapping through locations with the push of a button.
+- Gave the dashboard a makeover - because looks matter.
 
-Observations:
-Business insight/recommendation or data driven descisions
-inetersting patterns in Transactions by day of week and hour of day
-For Manhattan Location - huge spike in  sales from 7am - 10am
-major spike in salkes on monday
-evening 7-8pm -not making much sales-observatrion -losing money by keeping store open past 6pm
-improve margins  by changing the operating hours
-Product level trends-
-In Manhattan-espresso-popular
-coffee and tea are top products
-compating with astoria - chai tea is more popular here in astoria,  o heavy traffic on monday as in manhattan, is open until 7pm but makes good sales unlike manhattan. Sales are stable throughout the day in astoria
+### Observations: The Plot Thickens
+
+#### Business Insight/Recommendations:
+- **For the Manhattan Maverns**: Mornings are gold (7am - 10am) with a caffeine rush that could rival the New York Marathon. Mondays are like the Super Bowl of sales - everyone needs that coffee kickstart. But post-6pm, it's crickets - might as well roll up the sidewalks.
+  - **Idea**: Let's not play night owls. Closing at 6pm could be our ticket to cost-saving glory.
+
+#### Product-Level Trends:
+- **Espresso in Manhattan** is the crown prince, with coffee and tea as the loyal court.
+- **Astoria’s Twist**: Chai tea steals the spotlight, proving every neighborhood has its own caffeine anthem. Unlike Manhattan, evenings here are buzzing, not snoozing.
+  
+### Conclusion:
+Every Mavern Roasters location is a unique snowflake in the blizzard of New York's coffee scene. By tailoring our operations to the rhythms and preferences of each neighborhood, we're not just selling coffee - we're brewing success. 
+
+Let's keep the coffee flowing and the registers ringing! ☕💼
